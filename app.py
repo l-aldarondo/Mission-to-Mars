@@ -10,8 +10,10 @@ app = Flask(__name__)
 
 # tell Python how to connect to Python using Pymongo
 # Use flask_pymongo to set up mongo connection
-app.config["MONGO_URI"] = "mongodb://localhost:27017/mars_app"
-mongo = PyMongo(app)
+# Use PyMongo to establish Mongo connection
+mongo = PyMongo(app, uri="mongodb://localhost:27017/mars_app")
+#app.config["MONGO_URI"] = "mongodb://localhost:27017/mars_app"
+#mongo = PyMongo(app)
 
 # home route
 @app.route("/")
