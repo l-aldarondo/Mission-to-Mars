@@ -9,7 +9,7 @@ To use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s h
 ## Resources
 
 Software:
-- Python 3.7.6, Visual Studio Code 1.68.1, MongoDB Compass 1.32.6, HTML/CSS, 
+- Python 3.7.6, Visual Studio Code 1.68.1, MongoDB Compass 1.32.6, HTML/CSS, Flask 2.1.2
  
 <br/>
 
