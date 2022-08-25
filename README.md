@@ -71,7 +71,7 @@ We were able to scrape all the data, confirm that our webpage had the full-resol
 
 <br/>    
 
-- We modified the Mars Hemisphere images to be displayed in a thumbnail format (Figure f and b).
+- We modified the Mars Hemisphere images to be displayed in a thumbnail format (Figure f and g).
       
     ![bootstrap_component 2](./images/Bootstrap%203%20Component%202.png)
     
