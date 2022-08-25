@@ -30,6 +30,7 @@ This project consists of three technical analyses:
 We confirmed that we had the image URLs and titles for all four hemisphere images, and a code to quit the browser (Figure a).
 
 ![images_url](./images/image_url.png)
+
 <sub>Figure (a) Mars hemisphere images URLs.
 
 <br/>
@@ -39,6 +40,7 @@ We confirmed that we had the image URLs and titles for all four hemisphere image
 We were able to scrape all the data, confirm that our webpage had the full-resolution images and the titles of the four hemisphere images, as shown below (Figure b).
 
 ![4_hemisphere_images_with_titles](./images/Mars_hemisphers_img.png)
+
 <sub>Figure (b) Four Mars hemisphere images with titles.
     
 <br/>
@@ -49,6 +51,7 @@ We were able to scrape all the data, confirm that our webpage had the full-resol
     - It was tested for Ipad air and Pixel 4 mobile devices and confirmed that it was functional (Figure c).
 
 ![mobile_responsive](./images/mobile_responsive.png)
+
 <sub>Figure (c) Screen capture of the web app mobile version displayed in an ipad screen.  
          
 <br/>
@@ -57,6 +60,7 @@ We were able to scrape all the data, confirm that our webpage had the full-resol
     - Table header was increased in size and added a secundary header to the table (Figure d and e).
 
     ![bootstrap_component 1](./images/Bootstrap%203%20Component%201.png)
+    
     <sub>Figure (d) Screen capture of code adding bootstarp component to table title.
 
     <br/>
@@ -70,12 +74,13 @@ We were able to scrape all the data, confirm that our webpage had the full-resol
 - We modified the Mars Hemisphere images to be displayed in a thumbnail format (Figure f and b).
       
     ![bootstrap_component 2](./images/Bootstrap%203%20Component%202.png)
+    
     <sub>Figure (f) Screen capture of code adding bootstarp component to display images as thumbnail.
 
 
     ![4_hemisphere_images_with_titles_thumbnail](./images/Bootstrap%203%20Component_2_display.png)
     
-    <sub>Figure (g) Four Mars hemisphere images with titles displayed as thumbnail.
+    <sub>Figure (g) Four Mars hemisphere images with titles displayed as thumbnail after adding bootstrap component.
         
 <br/>
 
