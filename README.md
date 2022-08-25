@@ -19,8 +19,7 @@ Software:
 
 ### Deliverable #1
 
-
-After you have confirmed that you have the image URLs and titles for all four hemisphere images, quit the browser (Figure a)
+We confirmed that we had the image URLs and titles for all four hemisphere images, and a code to quit the browser (Figure a).
 
 ![images_url](./images/image_url.png)
 
@@ -44,13 +43,13 @@ We were able to scrape all the data, confirm that our webpage had the full-resol
 <br/>
 
 - We added two additional Bootstrap 3 components.
-    - Table header was increased in size and added a secundary header to the table (Figure d and b).
+    - Table header was increased in size and added a secundary header to the table (Figure d and e).
 
     ![bootstrap_component 1](./images/Bootstrap%203%20Component%201.png)
 
     ![bootstrap_component 1](./images/Bootstrap%203%20Components_1_display.png)
 
-    - We modified the Mars Hemisphere images to be displayed in a thumbnail format (Figure e).
+    - We modified the Mars Hemisphere images to be displayed in a thumbnail format (Figure f and b).
 
     ![bootstrap_component 2](./images/Bootstrap%203%20Component%202.png)
 
@@ -64,6 +63,6 @@ We were able to scrape all the data, confirm that our webpage had the full-resol
 
 [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
  
-[Postgresql Database Connection](https://www.postgresql.org/docs/current/libpq-connect.html)
+[Bootstap Grid system](https://getbootstrap.com/docs/3.3/examples/grid/)
  
-[SQLAlchemy](https://www.sqlalchemy.org/)
+[Bootstrap CSS](https://getbootstrap.com/docs/3.3/css/)
