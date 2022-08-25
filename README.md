@@ -38,7 +38,7 @@ We confirmed that we had the image URLs and titles for all four hemisphere image
 
 We were able to scrape all the data, confirm that our webpage had the full-resolution images and the titles of the four hemisphere images, as shown below (Figure b).
 
-![4_hemisphere_images_with_titles](./images/Bootstrap%203%20Component_2_display.png)
+![4_hemisphere_images_with_titles](./images/Mars_hemisphers_img.png)
 <sub>Figure (b) Four Mars hemisphere images with titles.
     
 <br/>
@@ -73,7 +73,9 @@ We were able to scrape all the data, confirm that our webpage had the full-resol
     <sub>Figure (f) Screen capture of code adding bootstarp component to display images as thumbnail.
 
 
-    ![4_hemisphere_images_with_titles](./images/Bootstrap%203%20Component_2_display.png)
+    ![4_hemisphere_images_with_titles_thumbnail](./images/Bootstrap%203%20Component_2_display.png)
+    
+    <sub>Figure (g) Four Mars hemisphere images with titles displayed as thumbnail.
         
 <br/>
 
