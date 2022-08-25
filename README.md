@@ -45,42 +45,50 @@ We were able to scrape all the data, confirm that our webpage had the full-resol
     
 <br/>
 
+Then we confirmed that all the data that we retrived was captured in our Mongo database as shown in Figure (c).
+
+![MongoDB](./images/MongoDB_info_data_capture.png)
+
+<sub>Figure (c) Mongo database with all the retrived data.
+
+<br/>
+
 ### Deliverable #3
 
 - We updated our web app to make it mobile-responsive,
-    - It was tested for Ipad air and Pixel 4 mobile devices and confirmed that it was functional (Figure c).
+    - It was tested for Ipad air and Pixel 4 mobile devices and confirmed that it was functional (Figure d).
 
 ![mobile_responsive](./images/mobile_responsive.png)
 
-<sub>Figure (c) Screen capture of the web app mobile version displayed in an ipad screen.  
+<sub>Figure (d) Screen capture of the web app mobile version displayed in an ipad screen.  
          
 <br/>
 
 - We added two additional Bootstrap 3 components.
-    - Table header was increased in size and added a secundary header to the table (Figure d and e).
+    - Table header was increased in size and added a secundary header to the table (Figure e and f).
 
     ![bootstrap_component 1](./images/Bootstrap%203%20Component%201.png)
     
-    <sub>Figure (d) Screen capture of code adding bootstarp component to table title.
+    <sub>Figure (e) Screen capture of code adding bootstarp component to table title.
 
     <br/>
 
     ![bootstrap_component 1](./images/Bootstrap%203%20Components_1_display.png)
 
-    <sub>Figure (e) Mars facts table after adding bootstrap components.
+    <sub>Figure (f) Mars facts table after adding bootstrap components.
 
 <br/>    
 
-- We modified the Mars Hemisphere images to be displayed in a thumbnail format (Figure f and g).
+- We modified the Mars Hemisphere images to be displayed in a thumbnail format (Figure g and h).
       
     ![bootstrap_component 2](./images/Bootstrap%203%20Component%202.png)
     
-    <sub>Figure (f) Screen capture of code adding bootstarp component to display images as thumbnail.
+    <sub>Figure (g) Screen capture of code adding bootstarp component to display images as thumbnail.
 
 
     ![4_hemisphere_images_with_titles_thumbnail](./images/Bootstrap%203%20Component_2_display.png)
     
-    <sub>Figure (g) Four Mars hemisphere images with titles displayed as thumbnail after adding bootstrap component.
+    <sub>Figure (h) Four Mars hemisphere images with titles displayed as thumbnail after adding bootstrap component.
         
 <br/>
 
